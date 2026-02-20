@@ -1,0 +1,6 @@
+[submodule "DDclass"]
+	path = DDclass
+	url = https://github.com/UCHINO-Yuki/DDclass.git
+[submodule "GEMMul8_MATLAB"]
+	path = GEMMul8_MATLAB
+	url = https://github.com/UCHINO-Yuki/GEMMul8_MATLAB
